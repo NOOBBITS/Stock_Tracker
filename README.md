@@ -10,7 +10,7 @@
 ## Installation
 
 1. **Clone the Project:**
-    1. Run ` git clone https://github.com/ujjman/StocksTracker ` in terminal
+    1. Run ` git clone https://github.com/NOOBBITS/Stock_Tracker ` in terminal
     1. Android Studio -> File -> Open
     
 
