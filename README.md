@@ -25,3 +25,5 @@ Stocks Tracker uses [Polygon API](https://polygon.io/docs/stocks/getting-started
     - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) - Store and manage UI-related data in a lifecycle conscious way
     - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) - Observable data holder class
     - [Room](https://developer.android.com/training/data-storage/room) - Provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite
+
+APP Link- https://drive.google.com/file/d/169VESsfztLeSIl0j4ZBXdoXm7o_b6JIz/view?usp=sharing
